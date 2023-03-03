@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type="text/javascript" src="https://tpc.googlesyndication.com/pagead/gadgets/html5/api/exitapi.js"> </script>
+    <meta name="ad.orientation" content="portrait">
+    <link rel="stylesheet" href="style.css">
+    <title>Planet Clicker</title>
+</head>
+<body>
+    <!-- Tutorial -->
+    <section class="tutorial">
+        <h1 id="tctrl">Tap to play</h1> 
+
+        <div class="tutorial-planet-pointing">
+            <img class="planet" id="planet" src="./assets/P01.png" alt=""><br>
+            <img class="swim" src="./assets/Group 483.png" alt=""><br>
+            <img class="hand" src="./assets/Mask group.png" alt="" width="100" height="100">
+        </div>
+
+        <div class="tutorial-planet-pointed">
+            <img src="./assets/Group 486.png" alt="">
+        </div>
+
+        <div class="tutorial-planet-burst">
+            <img src="./assets/Group 485.png" alt="">
+        </div>
+    </section>
+
+    <!-- Game -->
+    <section class="game">
+        <h2 id="gctrl">Start</h2>
+        <div class="game-planet">
+            <img src="./assets/P02.png" alt="" id="planet">
+        </div>
+
+        <div class="game-planet-pointed">
+            <img src="./assets/Group 507.png" alt="" id="sun">
+        </div>
+
+        <div class="game-planet-sligtly-burst">
+            <img src="./assets/Group 508.png" alt="" id="sunburst">
+        </div>
+
+        <div class="game-planet-burst">
+            <img src="./assets/Group 510.png" alt="" id="sunburst2">
+        </div>
+    </section>
+
+    <!-- Final map -->
+
+    <section class="final-map">
+        <h3>Planet Clicker</h3>
+        <div class="final-map-bg">
+            <div class="final-map-image">
+                <img src="./assets/final-map.png" alt="" width="100%" height="500">
+                <button class="final-map-button" onclick="ExitApi.exit()">Play Now</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Script -->
+    <script src="script.js"></script>
+</body>
+</html>
