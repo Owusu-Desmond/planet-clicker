@@ -39,6 +39,7 @@ h3 {
   font-size: 24px;
   padding: 10px 20px;
   letter-spacing: -0.5px;
+  padding-top: 15px;
 }
 
 .tutorial-planet-pointing {
@@ -75,7 +76,7 @@ h3 {
 .game-planet-sligtly-burst,
 .game-planet-burst {
   position: relative;
-  top: 130px;
+  top: 110px;
   left: 30%;
 }
 
@@ -154,10 +155,10 @@ h3 {
   background-size: cover;
   background-position: center;
   border-radius: 79px;
-  padding: 30px 50px;
+  padding: 20px 40px;
   width: 295px;
   position: absolute;
-  top: 500px;
+  top: 400px;
   display: flex;
   justify-content: center;
   color: #fff;
@@ -184,7 +185,7 @@ h3 {
 
   .final-map button {
     position: absolute;
-    top: 450px;
+    top: 370px;
     left: 5%;
   }
 
