@@ -140,6 +140,7 @@ h3 {
   background-size: cover, cover;
   background-position: center, center;
   background-blend-mode: hard-light;
+  height: 100vh;
   max-width: 400px;
   padding-top: 30px;
   margin: auto auto;
