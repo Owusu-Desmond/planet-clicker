@@ -35,6 +35,12 @@ h3 {
   font-weight: 900;
 }
 
+h3 {
+  font-size: 24px;
+  padding: 10px 20px;
+  letter-spacing: -0.5px;
+}
+
 .tutorial-planet-pointing {
   display: flex;
   flex-direction: column;
@@ -128,7 +134,7 @@ h3 {
 
 .final-map {
   display: none;
-  background-image: url("./assets/bg.png"), url("final-map-bg.png");
+  background-image: url("./assets/bg.png"), url("./assets/final-map-bg.png");
   background-repeat: no-repeat, no-repeat;
   background-size: cover, cover;
   background-position: center, center;
@@ -158,7 +164,7 @@ h3 {
   font-weight: 900;
   font-family: 'Poppins', sans-serif;
   font-size: 34px;
-  text-shadow: 2px 2px 2px rgb(0, 0, 0);
+  -webkit-text-stroke: 2px #0f0f40;
 }
 
 @media screen and (max-width: 786px) {
