@@ -155,10 +155,10 @@ h3 {
   background-size: cover;
   background-position: center;
   border-radius: 79px;
-  padding: 30px 50px;
+  padding: 20px 40px;
   width: 295px;
   position: absolute;
-  top: 360px;
+  top: 400px;
   display: flex;
   justify-content: center;
   color: #fff;
@@ -185,7 +185,7 @@ h3 {
 
   .final-map button {
     position: absolute;
-    top: 360px;
+    top: 370px;
     left: 5%;
   }
 
