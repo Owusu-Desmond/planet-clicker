@@ -45,9 +45,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Thanks to the owner of this [Design](https://www.figma.com/file/6TYAyRkxTcGfMeBtepfB43/PlanetClicker?node-id=23%3A1850&t=BPKgHCXM2TLEeIUK-0)
 
 ## 📝 License
 
