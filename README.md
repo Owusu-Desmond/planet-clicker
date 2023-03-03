@@ -46,7 +46,3 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Thanks to the owner of this [Design](https://www.figma.com/file/6TYAyRkxTcGfMeBtepfB43/PlanetClicker?node-id=23%3A1850&t=BPKgHCXM2TLEeIUK-0)
-
-## 📝 License
-
-This project is [MIT](./LICENSE) licensed.
